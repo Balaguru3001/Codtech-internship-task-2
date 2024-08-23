@@ -1,6 +1,7 @@
 # Codtech-internship-task-2
 
-
+Name : Balaguru E Company : CODTECH IT SOLUTIONS Internship duration : 1 month[23rd july 2024 to 23rd august 2024] 
+Domain : Cloud Computing Intern Id : CT04DS5721
 
 
 
